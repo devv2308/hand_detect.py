@@ -29,7 +29,6 @@ This project uses a webcam to detect and track hand landmarks in real time. The 
 git clone https://github.com/devv2308/face_and_hand_detect_together.py.git
 cd face_and_hand_detect_together.py
 ```
-
 ### Install dependencies
 
 ```bash
